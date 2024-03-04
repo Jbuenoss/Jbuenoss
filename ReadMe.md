@@ -1,5 +1,5 @@
 # 💫 About Me:
-front end student<br>
+Enthusiastic coder exploring the endless possibilities of technology.<br>
 
 
 # 💻 Tech Stack:
